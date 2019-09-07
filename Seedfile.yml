@@ -1,0 +1,10 @@
+name: php
+parameters:
+  - variable: APPNAME
+    description: Application name
+  - variable: APPNAMESPACE
+    description: Composer namespace
+  - variables: AUTHOR_NAME
+    description: Author name
+  - variables: AUTHOR_EMAIL
+    description: Author email

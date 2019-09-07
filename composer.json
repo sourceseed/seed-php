@@ -1,0 +1,10 @@
+{
+    "name": "__APPNAMESPACE__/__APPNAME__",
+    "authors": [
+        {
+            "name": "__AUTHOR_NAME__",
+            "email": "__AUTHOR_EMAIL__"
+        }
+    ],
+    "require": {}
+}
